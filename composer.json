@@ -1,0 +1,10 @@
+{
+    "require": {
+        "spatie/pdf-to-text": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "classes\\": "classes/"
+        }
+    }
+}
